@@ -1,0 +1,23 @@
+{
+  "name": "inf-discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot for informatik discord server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curryp0mmes/inf-discord-bot.git"
+  },
+  "author": "Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curryp0mmes/inf-discord-bot/issues"
+  },
+  "homepage": "https://github.com/curryp0mmes/inf-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
